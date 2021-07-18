@@ -1,0 +1,5 @@
+value_min,value_max,base_duty_rate,additional_duty_rate
+5000,75000,0,1.5
+75000,540000,1050,3.5
+540000,1000000,17325,4.5
+1000000,,38025,5.75
